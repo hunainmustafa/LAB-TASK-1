@@ -1,1 +1,0 @@
-This program implements a Circular Singly Linked List with functions to insert nodes at different positions (first, last, center, or specific index), display the list, and delete a node by position while maintaining the circular structure. 
